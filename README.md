@@ -83,7 +83,7 @@ These can be customized in `gesture_recognizer.py` and `actions.py`.
 You can also:
 
 * Collect hand gesture images
-* Train a deep learning model using TensorFlow or PyTorch
+* Train a deep learning model using TensorFlow
 * Replace rule-based logic with your own model inference
 
 ---
