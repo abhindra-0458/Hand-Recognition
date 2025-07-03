@@ -88,13 +88,6 @@ You can also:
 
 ---
 
-## 📽️ Demo Preview
-
-> *(Add a GIF or screenshot of your project running here)*
-> Example: Webcam feed with detected hand and action label.
-
----
-
 ## 🔧 Future Ideas
 
 * Recognize both hands at once
@@ -107,7 +100,7 @@ You can also:
 ## 👨‍💻 Created By
 
 * Abhindra Krishna K M
-* \[Add your teammates here, if any]
+* Jenifer Maria Joseph
 
 ---
 
