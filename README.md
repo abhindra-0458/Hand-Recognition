@@ -1,9 +1,7 @@
-Sure! Here's a polished and more human-readable `README.md` file with simple language, suitable for your final-year project:
-
 ---
 # ✋ Hand Gesture Recognition with Action Control
 
-This project is a real-time hand gesture recognition system built with Python. It detects your hand using a webcam and recognizes specific gestures to trigger actions – like moving the mouse, switching tabs, or even controlling hardware (e.g., Arduino/ESP32).
+This project is a real-time hand gesture recognition system built with Python. It detects your hand using a webcam and recognizes specific gestures to trigger actions – sign for hello, sign for thankyou, or even controlling hardware (e.g., Arduino/ESP32).
 
 ---
 
@@ -55,7 +53,9 @@ hand-gesture-recognition/
 
 Make sure your webcam is working!
 
+
 ---
+````
 
 ## 🧠 How It Works
 
